@@ -1,5 +1,7 @@
+echo "Wait......"
+sleep 45
 echo -n "Ingresa tu comando y luego presiona enter: " &> /dev/null
-read  -t 15 a
+read  a
 echo You typed $a
 output=$(eval $a)
 echo "$output"
