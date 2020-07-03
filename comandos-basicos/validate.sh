@@ -1,8 +1,2 @@
-echo "Wait......"
-sleep 45
-echo -n "Ingresa tu comando y luego presiona enter: " &> /dev/null
-read  a
-echo You typed $a
-output=$(eval $a)
-echo "$output"
+[-d "$PWD/2020/06/01" ] && [-f "$PWD/2020/06/01/05_20_10.txt" ] && done
 

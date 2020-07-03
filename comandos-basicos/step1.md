@@ -1,5 +1,5 @@
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
-
-`echo 'Hello World'`{{execute}}
+Crea el siguiente esquema de carpetas
+2020/06/01
+y dentro del utlimo folder el archivo 05_20_10.txt

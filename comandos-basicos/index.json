@@ -8,7 +8,7 @@
       {
         "title": "Step 1",
         "text": "step1.md",
-        "code": "validate.sh"
+        "verify": "validate.sh"
       },
       {
         "title": "Step 2",
@@ -24,8 +24,7 @@
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "code": "back_step01.sh"
+      "text": "intro.md"
     },
     "finish": {
       "text": "finish.md"
